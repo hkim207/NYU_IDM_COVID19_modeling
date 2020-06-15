@@ -6,3 +6,5 @@ The model contributors are following:
 NYU Grossman School of Medicine: Scott Braithwaite, Hae-Young Kim, Jessica Mcgillen, Anna Bershteyn 
 Institute of Disease Modeling: Dan Klein, Niket Thakkar, Prashanth Selvaraj 
 
+Please feel free to send any questions to Hae-Young Kim at Hae-young.Kim@nyulangone.org
+
